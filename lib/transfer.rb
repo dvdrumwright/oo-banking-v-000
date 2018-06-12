@@ -24,7 +24,7 @@ end
 end
 
 def reverse_transfer  
-  
+if @sender == "com"
   
 end 
   
