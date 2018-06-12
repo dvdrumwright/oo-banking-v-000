@@ -28,9 +28,7 @@ if @status == "complete"
   self.balance -= @amount
   self.receiver += @amount
 else @status == "reversed"
-  
-
-  
+end
 end 
   
   
